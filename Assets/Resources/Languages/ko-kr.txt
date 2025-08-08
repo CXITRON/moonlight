@@ -1,0 +1,22 @@
+#DO NOT USE SPACE INSTEAD OF TAB.
+#last_update: 2025-06-18
+#translated by cada3141
+
+#system
+	save_failed: 파일 저장에 실패하였습니다.
+	unkown_error_occured: 알 수 없는 오류가 발생하였습니다.
+
+#InGame
+	#Interaction
+		interaction_light: (평범한 등불이다. 오랫동안 켜져있었는지 조금 뜨겁다.)
+		interaction_moon: touch the sky~
+	
+	#Script
+		#Chapter 0
+			ch0_0: BA01 응답바람. BA01 응답바람.
+			ch0_1: (잠시 기다려 보지만 무전 너머로는 아무런 소리도 들리지 않는다.)
+			ch0_2: (낙오된 건가...)
+			ch0_3: (천천히 주위를 둘러보자.)
+			
+
+#ITEM INFO
